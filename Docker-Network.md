@@ -1,7 +1,3 @@
-Here's a **hands-on DevOps Masterclass** lab for **RondusTech** focused on **Docker containerization and networking**, based on the image `rondustech/maven-web-app` from Docker Hub.
-
----
-
 ## 🛠️ Hands-On Lab: Create a Container from a Docker Image and Network It
 
 ### 🔧 Prerequisites
